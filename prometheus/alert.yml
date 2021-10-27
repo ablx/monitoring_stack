@@ -3,4 +3,4 @@ groups:
     rules:
       - alert: InstanceDown 
         expr: up{job="services"} < 1 
-        for: 5m 
+        for: 1m 
