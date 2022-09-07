@@ -6,3 +6,8 @@ Source for https://dashdashverbose.medium.com/monitoring-setup-with-docker-compo
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1EKYJI)
+
+
+### Infrastructure model
+
+![Infrastructure model](.infragenie/infrastructure_model.png)
